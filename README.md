@@ -278,6 +278,38 @@ This skill is designed for device deployed at bus stop around the campus of the 
 ## Course Information
 ## Wireless Information
 
+### Supported Language
+- Invoke skill:  
+   - Alexa, wireless information.  
+- Help mode:  
+   - help (describe this skills).  
+- General query:  
+   - {{ building_name }}
+   - which buildings are busy?  
+   - Which building has mostly connection? 
+- Interactive mode: check building name:  
+   - {bilding_name}.
+- Start search mode:  
+   - Start or Begin.
+- Interactive mode: answer busy building names:  
+   - The following buildings are currently busy: {{ building names }}.
+- Interactive mode: answer top 3 mostly connection:  
+   - The buildings with the highest number of connected client devices are: {{ bilding name 1}} which has {{ number }} connections, {{ building name 2 }} which has {{ number }} connections, and {{ building name 3 }} which has {{ number }} connections.
+  What else can I assist you with.
+- end of mode:
+   - Goodbye.
+
+### Supported Building Names
+| Building Number| Building Name |
+| -- |
+|0001|Davenport Hall|	
+|0002|Art Annex East| 
+|0003|Mckinley Health Clinic|	
+|0004|Harding Band Building|	
+|0005|Kenney Gym Annex|	
+|0006|Armory|	
+
+
 ## Developers
 [Wang Jikun](https://github.com/WagJK) - Dining info, library info, staff info <br>
 [Feng Xiyang](https://github.com/andyfengHKU) - EWS usage, sports schedule, CUMTD <br>
