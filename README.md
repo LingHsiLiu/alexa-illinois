@@ -302,13 +302,12 @@ This skill is designed for device deployed at bus stop around the campus of the 
 ### Supported Building Names
 | Building Number | Building Name | 
 | --------- | --------------- | 
-| 0001 | Davenport Hall |
-|0001|Davenport Hall|	
-|0002|Art Annex East| 
-|0003|Mckinley Health Clinic|	
-|0004|Harding Band Building|	
-|0005|Kenney Gym Annex|	
-|0006|Armory|	
+| 0001 | Davenport Hall |	
+| 0002 | Art Annex East | 
+| 0003 | Mckinley Health Clinic |	
+| 0004 | Harding Band Building |	
+| 0005 | Kenney Gym Annex |	
+| 0006 | Armory |	
 
 
 ## Developers
