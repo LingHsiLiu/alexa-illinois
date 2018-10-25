@@ -300,6 +300,10 @@ This skill is designed for device deployed at bus stop around the campus of the 
    - Goodbye.
 
 ### Supported Building Names
+| Buildings | Supported Names | Supported Rooms |
+| --------- | --------------- | --------------- |
+| Digital Computer Laboratory | Digital Computer Laboratory (Lab), DCL | 416, 426, 440, 520 |
+
 | Building Number| Building Name |
 | -- |
 |0001|Davenport Hall|	
