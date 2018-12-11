@@ -1,0 +1,15 @@
+welcome: Welcome to U.I.U.C. laundry checker. How can I help you? Say "help" to know about how to use me.
+
+help: You can search laundry information of U.I.U.C in different building. And, I will tell you how many waher machines and dryer machines available. To start a query, you need to tell me the building name. For example, you want to know the laundry building name for PAR BABCOCK ROOM 23, you need to say "PAR BABCOCK ROOM 23". Finally, say "start" to  initiate the query. You can try it now.
+
+confirm-clue: Got it, {{ which_name }} {{ name }}. Anything else? Say "start" to initiate the query.
+
+answer-results: There are total {{ result[0] }} washer machines and {{ result[1] }} dryer machines availble at {{ laundry }}. 
+
+answer-noresults: I am sorry to tell you that there is no building name matching your query. You can start another query now, or say "stop" to end this session.
+
+error-not-understand: I am sorry that I couldn't understand you. Could you say it again?
+
+error-other: I am sorry to tell you that something has gone wrong. Please try again.
+
+goodbye: Goodbye.
